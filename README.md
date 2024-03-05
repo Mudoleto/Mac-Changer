@@ -3,10 +3,18 @@
 In this project a mac address editor to bypass the security of a network system, developed for Linux operating systems, is realized.
 
 
-
 ## Authors
 
 - [@Mudoleto](https://www.github.com/Mudoleto)
+
+
+## Installation
+
+To use my project you need the following libraries
+
+```pip
+  pip install termcolor
+```
 
 
 ## Usage/Examples
